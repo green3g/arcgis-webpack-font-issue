@@ -9,7 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "arcgis-js-api": "^4.7.2"
+    "arcgis-js-api": "^4.7.2",
+    "font-awesome": "^4.7.0"
   },
   "devDependencies": {
     "@arcgis/webpack-plugin": "^4.7.10",
